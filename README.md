@@ -1,6 +1,6 @@
-# Welcome to your Expo app 👋
+# Recipe Finder
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+![01](https://github.com/user-attachments/assets/07fa5e7f-5629-4494-9d30-87d1a1c2ce10)
 
 ## Get started
 
@@ -16,35 +16,14 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npx expo start
    ```
 
-In the output, you'll find options to open the app in a
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## About
+This is my early projects in react native. This is a simple recipe finder app that gets data from a local "dummy-data.js" file and displays them in the screen. I used tab navigation, and stack navigation for this. Also you can save your favorites with "async storage package". This particular project helped me learn tab, stack navigation and many more things about react native. I am loving the journey and hoping to grow even more.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Screenshots
 
-## Get a fresh project
+![02](https://github.com/user-attachments/assets/6a59a1ff-8bb5-4630-a852-47bb777adf07)
+![03](https://github.com/user-attachments/assets/9256047b-25da-4064-b1eb-f1309edac650)
+![04](https://github.com/user-attachments/assets/9c1fe779-b11e-44d8-969c-c77b679d926c)
+![05](https://github.com/user-attachments/assets/49aa230a-3ae6-4245-8e1e-4f2ec7e3ad18)
 
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
